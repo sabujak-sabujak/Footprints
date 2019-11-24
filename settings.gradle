@@ -1,2 +1,2 @@
-include ':app'
-rootProject.name='ScreenRecorder'
+include ':sample', ':footprints'
+rootProject.name='Footprints'
