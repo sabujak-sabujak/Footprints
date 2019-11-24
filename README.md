@@ -1,2 +1,2 @@
-# ScreenRecorder
+# Footprints
 Android Screen recorder library
